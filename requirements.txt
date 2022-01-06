@@ -7,7 +7,7 @@ billiard==3.5.0.2
 blinker==1.4
 Boruta==0.1.5
 Bottleneck==1.0.0
-celery==4.0.2
+celery==5.2.2
 cffi==1.10.0
 click==6.7
 colour==0.1.2
