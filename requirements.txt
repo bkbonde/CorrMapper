@@ -37,7 +37,7 @@ idna==2.1
 ipaddress==1.0.16
 itsdangerous==0.24
 Jinja2==2.9.6
-joblib==0.9.4
+joblib==1.2.0
 kombu==4.0.2
 Mako==1.0.6
 MarkupSafe==1.0
